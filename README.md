@@ -1,2 +1,2 @@
 # AstropyTools
-Algunos script de python que usan la librería astropy
+Algunos scripts de python que usan la librería astropy
